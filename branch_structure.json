@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/align-node-22",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/align-node-22": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/align-node-22",
+    "origin"
+  ]
+}
